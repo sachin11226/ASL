@@ -16,7 +16,7 @@ git clone https://github.com/sachin11226/ASL
 ```
 2.  Install the required packages and Run main.py.
 ```bash
-pip install -r requirements.txt
+pip install opencv,mediapipe,tensorflow
 ```
 # Video demo
 https://user-images.githubusercontent.com/78334981/227418019-7545bcf6-1ee2-4461-baa1-e07ba68deb9e.mp4
